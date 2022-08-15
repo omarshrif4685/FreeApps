@@ -1,0 +1,101 @@
+Nav Bar:
+
+<nav class="navbar navbar-expand-lg bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="index.html"><img src="../main/icon.png" alt="FreeApps"
+                    class="img-nav-icon"></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="../Game/index.html">Games</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="../App/index.html">App</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="../Add/index.php">Add Your Game</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="../HowTo/index.html">How To</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="../contact/index.php">Contact</a>
+                    </li>
+
+                </ul>
+                </li>
+                </ul>
+                <form class="d-flex" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+
+footer:
+
+<footer class="bg-primary text-white text-center text-lg-start">
+        <!-- Grid container -->
+        <div class="container p-4">
+            <!--Grid row-->
+            <div class="row">
+                <!--Grid column-->
+                <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
+                    <!-- <h5 class="text-uppercase">Footer Content</h5> -->
+                    <img src="../main/icon.png" alt="Logo">
+
+                    <p>
+                        If you’re looking for a place to get all the best Android MOD APK apps, then you’ve landed in
+                        the right place. At
+                        FreeApps
+                    </p>
+                </div>
+                <!--Grid column-->
+
+                <!--Grid column-->
+                <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                    <h5 class="text-uppercase">Links</h5>
+
+                    <ul class="list-unstyled mb-0">
+                        <li>
+                            <a href="index.html" class="text-white">Home</a>
+                        </li>
+                        <li>
+                            <a href="../Game/index.html" class="text-white">Games</a>
+                        </li>
+                        <li>
+                            <a href="../App/index.html" class="text-white">Apps</a>
+                        </li>
+                        <li>
+                            <a href="../Add/index.php" class="text-white">Add Your Game</a>
+                        </li>
+                        <li>
+                            <a href="../HowTo/index.html" class="text-white">How To</a>
+                        </li>
+                        <li>
+                            <a href="../contact/index.php" class="text-white">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+                <!--Grid column-->
+            </div>
+            <!--Grid row-->
+        </div>
+        <!-- Grid container -->
+
+        <!-- Copyright -->
+        <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+            © 2020 Copyright:
+            <a class="text-white" href="https://mdbootstrap.com/">FreeApps.com</a>
+        </div>
+        <!-- Copyright -->
+    </footer>

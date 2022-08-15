@@ -1,0 +1,85 @@
+* {
+    font-family: 'Cairo', sans-serif;
+}
+
+.img-nav-icon {
+    width: 55px;
+    height: 46px;
+}
+
+.nav-link {
+    color: #272727;
+}
+
+.footer {
+    background-color: black;
+    color: #fff;
+}
+
+.footer a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer a:hover {
+    color: #d4d4d4;
+    text-decoration: underline;
+    text-decoration-color: whitesmoke;
+}
+
+.footer h5,
+h4 {
+    margin-left: 323px;
+    font-size: 16px;
+}
+
+h4 {
+    font-size: 24px;
+    margin-left: 7.5px;
+}
+
+.cpri {
+    background-color: #404040;
+}
+
+.cpri p {
+    font-size: 16px;
+}
+
+.footer-left img {
+    display: inline-block;
+}
+
+.footer1 {
+    background-color: red;
+}
+/* card */
+
+.card {
+    border: solid;
+    border-width: 1px;
+    width: 233px;
+    display: inline-block;
+    margin: 10px;
+}
+
+.Download {
+    background-color: #17f317;
+    border: none;
+    padding: 10px;
+}
+
+.card p {
+    font-family: 'Cairo', sans-serif;
+}
+
+.Demo-Mod {
+    background-color: red;
+    border: none;
+    padding: 10px;
+    color: white;
+}
+
+button {
+    cursor: pointer;
+}
